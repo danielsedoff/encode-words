@@ -1,0 +1,4 @@
+Made by Daniel Sedoff in 2015.
+
+This script demonstrates word encoding. Here word numbers are stored in Base62, the dictionary can be up to 238328 words long. Function names: e62 for encode, d62 for decode. 
+
